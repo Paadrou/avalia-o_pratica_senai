@@ -1,0 +1,14 @@
+@import url(root.css);
+
+.download {
+    a {
+        background-color: black;
+        text-align: center;
+        border: none;
+        font-weight: 800;
+        font-size: 25px;
+        width: 260px;
+        height: 67px;
+        padding: 12px;
+    }
+}
