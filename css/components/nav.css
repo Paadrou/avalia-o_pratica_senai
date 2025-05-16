@@ -1,19 +1,22 @@
 @import url(root.css);
 
 nav {
-    width: 1440px;
+    width: auto;
     height: 174px;
     text-align: center;
-
+    
     img {
         width: 180px;
         height: 51px;
+        margin-right: 500px;
+        margin-left: 80px;
     }
 
     a {
         font-size: 17px;
         font-weight: 600;
         color: #000;
+        margin-right: 40px;
     }
 
     .btn {

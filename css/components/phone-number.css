@@ -5,6 +5,9 @@
     padding: 55px 70px;
     margin: 86px 80px 128px;
     border-radius: 8px;
+    width: 1280px;
+    height: 166px;
+    justify-content: center;
 
     .btn {
         background-color: black;
