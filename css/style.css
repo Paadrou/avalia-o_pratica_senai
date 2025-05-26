@@ -1,18 +1,15 @@
-/* reset */
-
 @import url(components/reset.css);
-
-
-/* nav */
 
 @import url(components/nav.css);
 
+@import url(components/main.css);
 
-/* banner */
-
-@import url(components/banner.css);
-
-
-/* phone number */
+@import url(components/download.css);
 
 @import url(components/phone-number.css);
+
+@import url(components/how-works.css);
+
+@import url(components/benefits.css);
+
+@import url(components/footer.css);
