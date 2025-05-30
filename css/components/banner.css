@@ -1,6 +1,19 @@
 @import url(root.css);
 
-.download {
+.banner {
+
+    h1{
+        font-size: 61px;
+        font-weight: 800;
+    }
+
+    p{
+        font-size: 24px;
+        color: var(--text-color);
+        font-weight: 600;
+        margin: 27px 0 62px;
+    }
+
     a {
         background-color: black;
         text-align: center;
@@ -11,4 +24,14 @@
         height: 67px;
         padding: 12px;
     }
+
+    .btn{
+        img{
+            margin-right: 10px;
+        }
+    }
+
+   .links{
+    justify-content: space-between;
+   }
 }

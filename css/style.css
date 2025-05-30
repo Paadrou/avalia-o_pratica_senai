@@ -4,12 +4,16 @@
 
 @import url(components/main.css);
 
-@import url(components/download.css);
+@import url(components/banner.css);
 
 @import url(components/phone-number.css);
 
 @import url(components/how-works.css);
 
-@import url(components/benefits.css);
+@import url(components/cards.css);
 
 @import url(components/footer.css);
+
+/* @import url(components/responsive.css); */
+
+
